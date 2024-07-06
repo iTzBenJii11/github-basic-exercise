@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Burger and Chips
 Pizza
 Fried Chicken 
+=======
+Black panther 2
+Fury
+Silent Night
+Transformers
+>>>>>>> movies
